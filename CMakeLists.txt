@@ -11,7 +11,7 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(googletest)
 
-project(GroqCompiler VERSION 1.0)
+project(MyAwesomeProject VERSION 1.0)
 
 add_library(libfoo STATIC foo.cpp foo.h)
 
